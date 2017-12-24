@@ -1,0 +1,12 @@
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\bin\Debug\juegoDeUno.exe.config
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\bin\Debug\juegoDeUno.exe
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\bin\Debug\juegoDeUno.pdb
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\obj\Debug\juegoDeUno.csprojResolveAssemblyReference.cache
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\obj\Debug\juegoDeUno.exe
+C:\Users\DerianJair\Desktop\juegoDeUno\juegoDeUno\juegoDeUno\obj\Debug\juegoDeUno.pdb
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\bin\Debug\juegoDeUno.exe.config
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\obj\Debug\juegoDeUno.exe
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\obj\Debug\juegoDeUno.pdb
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\bin\Debug\juegoDeUno.exe
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\bin\Debug\juegoDeUno.pdb
+C:\Users\DerianJair\Desktop\Creaciones\CSharp\unoSolitario\juegoDeUno\obj\Debug\juegoDeUno.csprojResolveAssemblyReference.cache

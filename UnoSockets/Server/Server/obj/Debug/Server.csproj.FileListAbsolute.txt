@@ -1,0 +1,9 @@
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\bin\Debug\Server.exe.config
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\bin\Debug\Server.exe
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\bin\Debug\Server.pdb
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\obj\Debug\Server.exe
+C:\Users\DerianJair\Desktop\unoMulticliente\Server\Server\obj\Debug\Server.pdb
+C:\Users\DerianJair\Desktop\UnoSockets\Server\Server\bin\Debug\Server.exe.config
+C:\Users\DerianJair\Desktop\UnoSockets\Server\Server\obj\Debug\Server.exe
+C:\Users\DerianJair\Desktop\UnoSockets\Server\Server\obj\Debug\Server.pdb
